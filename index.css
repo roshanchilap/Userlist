@@ -1,0 +1,24 @@
+.avatar {
+  border-radius: 50%;
+}
+
+.container {
+  background: white;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  display: flex;
+  gap: 16px;
+  align-items: center;
+}
+
+body {
+  background-image: linear-gradient(
+    to right top,
+    #c88216,
+    #e26e3a,
+    #ee5c61,
+    #eb5589,
+    #d65db1
+  );
+}
