@@ -13,12 +13,5 @@
 }
 
 body {
-  background-image: linear-gradient(
-    to right top,
-    #c88216,
-    #e26e3a,
-    #ee5c61,
-    #eb5589,
-    #d65db1
-  );
+  background-image: linear-gradient(120deg, #84fab0 0%, #8fd3f4 100%);
 }
